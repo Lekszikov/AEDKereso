@@ -56,5 +56,6 @@ dependencies {
     implementation("com.squareup.okhttp3:logging-interceptor:4.12.0")
     implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2")
     implementation("com.google.android.gms:play-services-location:21.0.1")
+    implementation("androidx.glance:glance-appwidget:1.1.0")
 }
 
